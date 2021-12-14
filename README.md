@@ -1,2 +1,2 @@
-# ahanna-hello-world
+# hello-world
 SE ahanna
